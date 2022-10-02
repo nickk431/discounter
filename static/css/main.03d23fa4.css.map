@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.03d23fa4.css","mappings":"AAAA,UACI,UACJ,CAEA,KACI,aAAc,CACd,WACJ,CAEA,KACI,kBAAmB,CACnB,qBACJ","sources":["App.css"],"sourcesContent":["html, body {\r\n    height: 70%;\r\n}\r\n\r\nhtml {\r\n    display: table;\r\n    margin: auto;\r\n}\r\n\r\nbody {\r\n    display: table-cell;\r\n    vertical-align: middle;\r\n}"],"names":[],"sourceRoot":""}
